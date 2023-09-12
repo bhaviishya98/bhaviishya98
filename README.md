@@ -26,7 +26,7 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
 <div align="center">
    <a href="https://www.linkedin.com/in/bhaviishya98/" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/linkedin.svg" height="45px" padding = "0.5rem"/>  </a>
   <a href="mailto:bhavishya.hr.36t@gmail.com" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/gmail.svg" alt="Utkarsh Tyagi | Gmail" height="45px" padding = "0.5rem"/>  </a>
-  <a href="https://kshitizpratap.github.io/VS-Portfolio/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px" padding = "0.5rem"/>  </a>
+  <a href="https://portfolio-bhavishya.vercel.app/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px" padding = "0.5rem"/>  </a>
 </div>
 
 ### Badge :
