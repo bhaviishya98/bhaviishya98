@@ -16,12 +16,6 @@ I'm a FullStack Web Developer, a quick learner and a software enthusiast.
 
 ---
 
-### Github stats:
-
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhaviishya98&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true" /> </p>
-
----
-
 ### Reach Me Out!📫 <br>
 [![Twitter Badge](https://img.shields.io/twitter/url?label=%40bhaviishya98&style=social&url=https%3A%2F%2Ftwitter.com%2Fbhaviishya98)](https://twitter.com/bhaviishya98)
 [![Insta Badge](https://img.shields.io/badge/-@bhaviishya98-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bhaviishya98/)
