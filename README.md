@@ -4,18 +4,6 @@ I'm a FullStack Web Developer, a quick learner and a software enthusiast.
 
 ---
 
-### Languages and Tools:
-
-<div align="center">
-<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/html.svg">
-<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/css.svg">
-<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/javascript.svg">
-<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/react.svg">
-<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/nodejs.png">
-</div>
-
----
-
 ### Reach Me Out!📫 <br>
 [![Twitter Badge](https://img.shields.io/twitter/url?label=%40bhaviishya98&style=social&url=https%3A%2F%2Ftwitter.com%2Fbhaviishya98)](https://twitter.com/bhaviishya98)
 [![Insta Badge](https://img.shields.io/badge/-@bhaviishya98-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/bhaviishya98/)
